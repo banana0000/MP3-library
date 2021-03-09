@@ -1,1 +1,42 @@
 
+*{  margin:.5rem;
+    padding:0;
+    box-sizing:border-box;
+    }
+    
+    body{
+         background-color:grey;
+         height:100vh;
+         width:100vw;
+         overflow:hidden auto;
+           color:white;
+    }
+    
+     
+    h1 {
+        text-align:center;
+        margin-top:3rem;
+        padding:1rem;
+        color:black;
+            text-shadow:3px 3px 8px red;
+            
+    
+    }
+    
+    a{
+        color:black;
+        text-decoration:none;
+        font-size:1.5rem;
+            text-shadow:3px 3px 8px orange;
+    
+    
+    }
+    
+    a:hover {
+        background-color:blue;
+    }
+    
+    
+      
+    
+    
